@@ -1,9 +1,9 @@
 <?php
 // *** แก้ค่าตามเครื่องคุณ ***
-const DB_HOST = 'localhost';
-const DB_NAME = 's67160159';
-const DB_USER = 's67160159';
-const DB_PASS = '3kpKDPcV';
+const DB_HOST = '';
+const DB_NAME = '';
+const DB_USER = '';
+const DB_PASS = '';
 const DB_CHARSET = 'utf8mb4';
 
 // ตั้งค่า session ให้ปลอดภัยขึ้น
